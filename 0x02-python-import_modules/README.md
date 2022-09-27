@@ -1,1 +1,1 @@
-o.add py
+easy print
